@@ -1,8 +1,5 @@
 # CalCulator
 Calculator Application Based On Java 
 
-<html>
-  <body>
-    <img arc="C:\Users\akila\OneDrive\Pictures\Screenshots\Calculator-interface.png" alt="Image">
-  </body>
-</html>
+
+![Calculator-interface](https://github.com/mrakiyaaa/Calculator/assets/136437833/0c35f08b-b608-4529-a136-68ae4a4e98c8)
