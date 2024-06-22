@@ -34,6 +34,7 @@ public class Calculator implements ActionListener {
 
         // Resizable frame
         frame.setResizable(false);
+        frame.setLocationRelativeTo(null);
 
         //customize the window decorations
         frame.setUndecorated(false);
